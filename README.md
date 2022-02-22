@@ -1,2 +1,2 @@
 # Mathematics-and-Analytical-Methods
-It contains various mathematics and analytical  methods programs using Python 
+It contains various mathematical and analytical methods programs, plots and theories using Python 
