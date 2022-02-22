@@ -1,1 +1,1 @@
-Graphs, Netwroks, Linear Algebrs, Markov Process.
+Graphs, Networks, Linear Algebrs, Markov Process.
